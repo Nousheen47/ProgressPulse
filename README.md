@@ -149,22 +149,4 @@ If you use PHPMailer, either:
 - Do not commit real credentials; use environment variables or a local config file excluded from version control.
 - Keep PHPMailer and PHP updated for security.
 
----
 
-## License
-
-This project is open source. Use and modify according to your needs.
-
----
-
-## Contributing
-
-1. Fork the repository.
-2. Create a branch for your feature or fix.
-3. Submit a pull request to [Nousheen47/ProgressPulse](https://github.com/Nousheen47/ProgressPulse).
-
----
-
-## Repository
-
-**GitHub:** [https://github.com/Nousheen47/ProgressPulse](https://github.com/Nousheen47/ProgressPulse)
